@@ -1,4 +1,4 @@
-# GeneradorReportes-Facturas-
+# Generador Reportes Facturas
 Generar Reportes usando JasperReports para una aplicación de escritorio hecha con Java, utilizando a MySQL como motor de base de datos conectado mediante JDBC, y que permita exportar el reporte a PDF.
 
 Funcionalidades:
